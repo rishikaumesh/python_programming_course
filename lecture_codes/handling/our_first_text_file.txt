@@ -1,0 +1,2 @@
+this will be the next line in our fileThis will append to the file,Hello world, to the file from python!
+ this will start a new linethis write was one liner
